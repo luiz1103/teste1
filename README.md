@@ -1,5 +1,5 @@
 # DESENVOLVIDO POR
-## LUIZ FABIANO:smiley:
+## LUIZ FABIANO :smiley:
 ### ÁREAS AFINS
 #### FÍSICA :heart_eyes:
 ##### QUÍMICA :grin:
