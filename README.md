@@ -4,4 +4,4 @@
 #### FÍSICA :heart_eyes:
 ##### QUÍMICA :grin:
 ###### SITE DESENVOLVIDO EM HTML e CSS
-####### GOSTO DE JOGAR FUTEBOL :soccer:, E ANDAR A CAVALO :horse:
+###### GOSTO DE JOGAR FUTEBOL :soccer:, E ANDAR A CAVALO :horse:
