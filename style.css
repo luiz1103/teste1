@@ -5,12 +5,12 @@
   }  
   header{
       padding: 20px;
-      border: 4px dashed #b2df85;
+      border: 4px dashed #ff0000;
   }
       body{
       font-family: 'arial';
-      background-color: #0e031c;
-      color:rgba(255, 0, 17, 0.886);
+      background-color: #fcfcfc;
+      color:rgb(23, 82, 211);
       margin:10px auto;
       text-align: center;
   }
@@ -30,7 +30,7 @@
   .box{
       width:300px;
       height:200px;
-      background-color: #b2df85;
+      background-color: #ffffff;
       border-radius: 10px;
       margin:2%;
   }
