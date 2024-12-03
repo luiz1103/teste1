@@ -29,9 +29,9 @@
   
   .box{
       width:400px;
-      height:100px;
+      height:250px;
       background-color: #fff8f8;
-      border-radius: 10px;
+      border-radius: 15px;
       margin:2%;
   }
   .nav{
