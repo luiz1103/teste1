@@ -60,16 +60,16 @@
   }
   
   ul{
-      font-size: 19px;
+      font-size: 21px;
       color: black;
   }
   ol{
-      font-size: 19px;
+      font-size: 21px;
       color: black;
   
   }
   p{
-      color: aliceblue;
+      color: rgb(145, 203, 255);
       font-size: 16px;
       text-align:justify;
       padding: 10px;
